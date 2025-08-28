@@ -6,7 +6,6 @@
       {
         "id": "a149372165b0c1a4",
         "type": "tabs",
-        "dimension": 49.49856733524356,
         "children": [
           {
             "id": "76fb74cc07fcba62",
@@ -20,25 +19,6 @@
               },
               "icon": "lucide-file",
               "title": "问题二"
-            }
-          }
-        ]
-      },
-      {
-        "id": "80c5cdf6ef8f8e0c",
-        "type": "tabs",
-        "dimension": 50.50143266475645,
-        "children": [
-          {
-            "id": "408bf056bdea24ef",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "issue/B题.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "B题"
             }
           }
         ]
@@ -98,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "f8874c911a99afbb",
@@ -190,12 +169,14 @@
       "bases:创建新数据库": false
     }
   },
-  "active": "408bf056bdea24ef",
+  "active": "76fb74cc07fcba62",
   "lastOpenFiles": [
+    "问题三.md",
+    "issue/B题.pdf",
+    "attachment/Pasted image 20250828113106.png",
     "问题二.md",
     "重叠率.md",
     "attachment/Pasted image 20250828111724.png",
-    "issue/B题.pdf",
     "问题一.md",
     "覆盖宽度.md",
     "attachment/Pasted image 20250828105325.png",
