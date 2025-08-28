@@ -1,0 +1,186 @@
+{
+  "main": {
+    "id": "4249d617ac7ebefd",
+    "type": "split",
+    "children": [
+      {
+        "id": "b1e57e78dc945533",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a46807b62b9cf71c",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "journal/塔式光热电站定日镜不同聚焦策略的影响分析.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "塔式光热电站定日镜不同聚焦策略的影响分析"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d097bda75b99ea01",
+    "type": "split",
+    "children": [
+      {
+        "id": "50306daf411bd9fb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "501424eb2b91c148",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "975bbc5bc13a3847",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "87232985b1ff0055",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f8874c911a99afbb",
+    "type": "split",
+    "children": [
+      {
+        "id": "9d7d08409d6345d3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "870974aa3c66e33e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "issue/A题.pdf",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "A题 的反向链接列表"
+            }
+          },
+          {
+            "id": "cb2cf882853ac5d5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "issue/A题.pdf",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "A题 的出链列表"
+            }
+          },
+          {
+            "id": "6093b1fc35cb6906",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "3b7e6fcbbd88f698",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "issue/A题.pdf",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "A题 的大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:创建新数据库": false
+    }
+  },
+  "active": "501424eb2b91c148",
+  "lastOpenFiles": [
+    "attachment/test.md~",
+    "attachment/test.md",
+    "attachment/test",
+    "issue/B题.pdf",
+    "workspace/data/附件.xlsx",
+    "workspace/data/result2.xlsx",
+    "workspace/data/result1.xlsx",
+    "journal/result1.xlsx",
+    "journal/B题.pdf",
+    "journal/附件.xlsx",
+    "journal/result2.xlsx",
+    "issue/A题.pdf",
+    "README.md"
+  ]
+}
